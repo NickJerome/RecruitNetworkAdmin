@@ -1,0 +1,32 @@
+/*
+Writting By : Jerome
+Update Time : 2020/11/05
+*/
+
+/*基本主体框架*/
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI",Segoe,Tahoma,Arial,Verdana,sans-serif;
+  background-image: url(https://cn.bing.com/th?id=OHR.Albarracin_ZH-CN0019262872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp);
+}
+/*表单设计部分*/
+.roundInput {
+  margin-bottom: 15px;
+  position: relative;
+}
+.roundInputText {
+  height: 30px;
+  border-style: hidden;
+  border-radius: 20px;
+  line-height: 30px;
+  padding: 0 36px;
+}
+
+.imageInput {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  top : 8px;
+  left: 10px;
+}

@@ -9,3 +9,4 @@ A Website is writting to recruit admin
 >2020/11/05
 * 学会了在Atom中使用github拓展[一点点]
 * 建立了index.html
+* 写了input标签的圆角以及其他的杂七杂八的东西
