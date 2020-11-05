@@ -12,21 +12,27 @@ html, body {
 }
 /*表单设计部分*/
 .roundInput {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   position: relative;
+  border-radius: 20px;
+  height: 40px;
+  background-color: #ffffff;
+  width: 30%;
 }
 .roundInputText {
-  height: 30px;
+  height: 40px;
   border-style: hidden;
   border-radius: 20px;
-  line-height: 30px;
+  line-height: 40px;
   padding: 0 36px;
 }
-
+.roundInputRadio {
+  margin-top: 12px;
+}
 .imageInput {
   width: 16px;
   height: 16px;
   position: absolute;
-  top : 8px;
-  left: 10px;
+  top : 12px;
+  left: 16px;
 }
